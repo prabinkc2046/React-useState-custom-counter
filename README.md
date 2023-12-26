@@ -20,10 +20,9 @@ Use the useState hook for managing the state of the counter. Feel free to use an
 
 ## Features
 
-- Add new tasks to the to-do list.
-- Mark tasks as complete or incomplete.
-- Clear completed tasks.
-- Persistent data storage using `localStorage`.
+- Increment and decrement the counter by two buttons
+- Resetting the value of counter
+- Providing the custom user input
 
 ## Installation
 
